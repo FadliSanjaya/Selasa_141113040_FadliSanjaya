@@ -80,24 +80,65 @@ namespace Latihan_4_1
         {
 
         }
-
-
-        
-        
         private void Form1_Load(object sender, EventArgs e)
         {
-          
+            size.Items.Add("4");
+            size.Items.Add("5");
+            size.Items.Add("6");
+            size.Items.Add("7");
+            size.Items.Add("8");
+            size.Items.Add("9");
+            size.Items.Add("10");
+            size.Items.Add("11");
+            size.Items.Add("12");
+            size.Items.Add("14");
+            size.Items.Add("16");
+            size.Items.Add("18");
+            size.Items.Add("20");
+            size.Items.Add("22");
+            size.Items.Add("24");
+            size.Items.Add("26");
+            size.Items.Add("28");
+            size.Items.Add("36");
+            size.Items.Add("48");
+            size.Items.Add("72");
+            size.Items.Add("144");
+            size.Items.Add("288");
+            foreach (FontFamily font in FontFamily.Families)
+            {
+                Calibri.Items.Add(font.Name.ToLowerInvariant());
+            }
+
         }
 
         private void size_SelectedIndexChanged(object sender, EventArgs e)
         {
+            richTextBox1.Font = new Font(richTextBox1.Font.FontFamily, Convert.ToInt32(size.SelectedItem), richTextBox1.Font.Style);
         }
-        private void Color_SelectedIndexChanged(object sender, EventArgs e)
+    
+       
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
 
         }
 
-       
+        private void Color_Click(object sender, EventArgs e)
+        {
+            DialogResult color = colorDialog1.ShowDialog();
+            if (color == DialogResult.OK)
+            {
+                richTextBox1.ForeColor = colorDialog1.Color;
+            }
+        }
+
+        private void Calibri_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            richTextBox1.Font = new Font(Calibri.Text, richTextBox1.Font.Size);
+        }
     }
+    }
+
+
+
     
-}
+
