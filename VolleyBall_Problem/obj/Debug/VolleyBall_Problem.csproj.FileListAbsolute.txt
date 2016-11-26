@@ -1,0 +1,9 @@
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\VolleyBall_Problem\VolleyBall_Problem\bin\Debug\VolleyBall_Problem.exe.config
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\VolleyBall_Problem\VolleyBall_Problem\bin\Debug\VolleyBall_Problem.exe
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\VolleyBall_Problem\VolleyBall_Problem\bin\Debug\VolleyBall_Problem.pdb
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\VolleyBall_Problem\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.csprojResolveAssemblyReference.cache
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\VolleyBall_Problem\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.Form1.resources
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\VolleyBall_Problem\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.Properties.Resources.resources
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\VolleyBall_Problem\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.csproj.GenerateResource.Cache
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\VolleyBall_Problem\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.exe
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\VolleyBall_Problem\VolleyBall_Problem\obj\Debug\VolleyBall_Problem.pdb
