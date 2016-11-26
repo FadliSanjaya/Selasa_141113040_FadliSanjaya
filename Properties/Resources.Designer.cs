@@ -8,7 +8,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 namespace volleyball_problem.Properties
+=======
+namespace Latihan_5_1.Properties
+>>>>>>> be0145bca7903f136483c8c0d56a86ddb8c3292e
 {
 
 
@@ -44,7 +48,11 @@ namespace volleyball_problem.Properties
             {
                 if ((resourceMan == null))
                 {
+<<<<<<< HEAD
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("volleyball_problem.Properties.Resources", typeof(Resources).Assembly);
+=======
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Latihan_5_1.Properties.Resources", typeof(Resources).Assembly);
+>>>>>>> be0145bca7903f136483c8c0d56a86ddb8c3292e
                     resourceMan = temp;
                 }
                 return resourceMan;

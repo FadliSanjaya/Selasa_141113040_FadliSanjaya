@@ -1,0 +1,9 @@
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\Selasa_141113040_FadliSanjaya\Latihan_5_1\bin\Debug\Latihan_5_1.exe.config
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\Selasa_141113040_FadliSanjaya\Latihan_5_1\bin\Debug\Latihan_5_1.exe
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\Selasa_141113040_FadliSanjaya\Latihan_5_1\bin\Debug\Latihan_5_1.pdb
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\Selasa_141113040_FadliSanjaya\Latihan_5_1\obj\Debug\Latihan_5_1.csprojResolveAssemblyReference.cache
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\Selasa_141113040_FadliSanjaya\Latihan_5_1\obj\Debug\Latihan_5_1.Form1.resources
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\Selasa_141113040_FadliSanjaya\Latihan_5_1\obj\Debug\Latihan_5_1.Properties.Resources.resources
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\Selasa_141113040_FadliSanjaya\Latihan_5_1\obj\Debug\Latihan_5_1.csproj.GenerateResource.Cache
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\Selasa_141113040_FadliSanjaya\Latihan_5_1\obj\Debug\Latihan_5_1.exe
+E:\Materi Kuliah\Materi_Semester_5\.NET Lanjutan\Selasa_141113040_FadliSanjaya\Selasa_141113040_FadliSanjaya\Latihan_5_1\obj\Debug\Latihan_5_1.pdb

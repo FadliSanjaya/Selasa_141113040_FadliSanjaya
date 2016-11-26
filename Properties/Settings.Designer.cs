@@ -8,7 +8,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 namespace volleyball_problem.Properties
+=======
+namespace Latihan_5_1.Properties
+>>>>>>> be0145bca7903f136483c8c0d56a86ddb8c3292e
 {
 
 

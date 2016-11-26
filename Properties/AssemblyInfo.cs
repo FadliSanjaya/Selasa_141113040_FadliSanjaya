@@ -5,11 +5,19 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
+<<<<<<< HEAD
 [assembly: AssemblyTitle("volleyball_problem")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("volleyball_problem")]
+=======
+[assembly: AssemblyTitle("Latihan_5_1")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Latihan_5_1")]
+>>>>>>> be0145bca7903f136483c8c0d56a86ddb8c3292e
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +28,11 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
+<<<<<<< HEAD
 [assembly: Guid("b9d683b6-e04d-44cc-ab2f-58ed41aa8f2a")]
+=======
+[assembly: Guid("7a4c63d9-db1c-4dd9-b66d-9dc5ce1591c4")]
+>>>>>>> be0145bca7903f136483c8c0d56a86ddb8c3292e
 
 // Version information for an assembly consists of the following four values:
 //
